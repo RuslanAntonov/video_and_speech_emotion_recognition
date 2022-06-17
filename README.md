@@ -21,3 +21,4 @@ python main.py
 ## Источники
 - [Модель для визуального распознавания](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
 - [Модель для распознавания голоса](https://huggingface.co/Aniemore/wav2vec2-xlsr-53-russian-emotion-recognition)
+- [Видео](https://youtu.be/ycHYHOGmKLY)
