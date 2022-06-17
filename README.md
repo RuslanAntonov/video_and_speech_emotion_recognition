@@ -30,9 +30,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### ИЛИ
+### Альтернативный способ
 Тут будет описание под докер
 
+### Демо
 Демонстрацию работы можно увидеть [здесь](https://github.com/RuslanAntonov/video_and_speech_emotion_recognition/blob/main/video_and_speech_emotion_recognition.ipynb)
 
 ## Дальнейшее развитие
