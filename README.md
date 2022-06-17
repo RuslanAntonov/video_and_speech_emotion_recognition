@@ -37,7 +37,9 @@ python main.py
 Демонстрацию работы можно увидеть [здесь](https://github.com/RuslanAntonov/video_and_speech_emotion_recognition/blob/main/video_and_speech_emotion_recognition.ipynb)
 
 ## Дальнейшее развитие
-В процессе написания
+Выделено несколько способов улучшить работу системы:
+- В работе использовались предобученные системы. Есть предположение, что после обучения данных моделей на иных наборах данных, будет возможно получить лучший результат.
+- - ыыы
 
 ## Источники
 - [Модель для визуального распознавания](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
