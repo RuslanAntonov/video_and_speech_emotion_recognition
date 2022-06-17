@@ -18,6 +18,9 @@ python main.py
 
 Демонстрацию работы можно увидеть [здесь](https://github.com/RuslanAntonov/video_and_speech_emotion_recognition/blob/main/video_and_speech_emotion_recognition.ipynb)
 
+## Дальнейшее развитие
+В процессе написания
+
 ## Источники
 - [Модель для визуального распознавания](https://github.com/WuJie1010/Facial-Expression-Recognition.Pytorch)
 - [Модель для распознавания голоса](https://huggingface.co/Aniemore/wav2vec2-xlsr-53-russian-emotion-recognition)
