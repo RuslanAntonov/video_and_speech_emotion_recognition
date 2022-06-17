@@ -32,7 +32,12 @@ python main.py
 ```
 
 ### Альтернативный способ
-Тут будет описание под докер
+Соберите Docker-контейнер
+```
+git clone https://github.com/RuslanAntonov/video_and_speech_emotion_recognition.git
+cd video_and_speech_emotion_recognition/
+docker build -t video_and_speech_emotion_recognition
+```
 
 ### Демо
 Демонстрацию работы можно увидеть [здесь](https://github.com/RuslanAntonov/video_and_speech_emotion_recognition/blob/main/video_and_speech_emotion_recognition.ipynb)
